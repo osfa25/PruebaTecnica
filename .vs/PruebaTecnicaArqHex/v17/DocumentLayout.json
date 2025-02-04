@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFB555-B278-4DC3-A7C4-84199072BFFD}|BlazorPruebaTecnica.Client\\BlazorPruebaTecnica.Client.csproj|c:\\users\\danilo\\source\\repos\\pruebatecnicaarqhex\\blazorpruebatecnica.client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2AFB555-B278-4DC3-A7C4-84199072BFFD}|BlazorPruebaTecnica.Client\\BlazorPruebaTecnica.Client.csproj|solutionrelative:blazorpruebatecnica.client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFB555-B278-4DC3-A7C4-84199072BFFD}|BlazorPruebaTecnica.Client\\BlazorPruebaTecnica.Client.csproj|c:\\users\\danilo\\source\\repos\\pruebatecnicaarqhex\\blazorpruebatecnica.client\\pages\\client.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2AFB555-B278-4DC3-A7C4-84199072BFFD}|BlazorPruebaTecnica.Client\\BlazorPruebaTecnica.Client.csproj|solutionrelative:blazorpruebatecnica.client\\pages\\client.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFB555-B278-4DC3-A7C4-84199072BFFD}|BlazorPruebaTecnica.Client\\BlazorPruebaTecnica.Client.csproj|c:\\users\\danilo\\source\\repos\\pruebatecnicaarqhex\\blazorpruebatecnica.client\\services\\client\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFB555-B278-4DC3-A7C4-84199072BFFD}|BlazorPruebaTecnica.Client\\BlazorPruebaTecnica.Client.csproj|solutionrelative:blazorpruebatecnica.client\\services\\client\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFB555-B278-4DC3-A7C4-84199072BFFD}|BlazorPruebaTecnica.Client\\BlazorPruebaTecnica.Client.csproj|c:\\users\\danilo\\source\\repos\\pruebatecnicaarqhex\\blazorpruebatecnica.client\\services\\newfolder\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFB555-B278-4DC3-A7C4-84199072BFFD}|BlazorPruebaTecnica.Client\\BlazorPruebaTecnica.Client.csproj|solutionrelative:blazorpruebatecnica.client\\services\\newfolder\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFB555-B278-4DC3-A7C4-84199072BFFD}|BlazorPruebaTecnica.Client\\BlazorPruebaTecnica.Client.csproj|c:\\users\\danilo\\source\\repos\\pruebatecnicaarqhex\\blazorpruebatecnica.client\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2AFB555-B278-4DC3-A7C4-84199072BFFD}|BlazorPruebaTecnica.Client\\BlazorPruebaTecnica.Client.csproj|solutionrelative:blazorpruebatecnica.client\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027FAA5A-2620-497B-94E2-2C7B9CD94AD4}|PruebaTecnicaArqHex\\PruebaTecnicaArqHex.csproj|c:\\users\\danilo\\source\\repos\\pruebatecnicaarqhex\\pruebatecnicaarqhex\\models\\user\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027FAA5A-2620-497B-94E2-2C7B9CD94AD4}|PruebaTecnicaArqHex\\PruebaTecnicaArqHex.csproj|solutionrelative:pruebatecnicaarqhex\\models\\user\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027FAA5A-2620-497B-94E2-2C7B9CD94AD4}|PruebaTecnicaArqHex\\PruebaTecnicaArqHex.csproj|c:\\users\\danilo\\source\\repos\\pruebatecnicaarqhex\\pruebatecnicaarqhex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027FAA5A-2620-497B-94E2-2C7B9CD94AD4}|PruebaTecnicaArqHex\\PruebaTecnicaArqHex.csproj|solutionrelative:pruebatecnicaarqhex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027FAA5A-2620-497B-94E2-2C7B9CD94AD4}|PruebaTecnicaArqHex\\PruebaTecnicaArqHex.csproj|c:\\users\\danilo\\source\\repos\\pruebatecnicaarqhex\\pruebatecnicaarqhex\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{027FAA5A-2620-497B-94E2-2C7B9CD94AD4}|PruebaTecnicaArqHex\\PruebaTecnicaArqHex.csproj|solutionrelative:pruebatecnicaarqhex\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027FAA5A-2620-497B-94E2-2C7B9CD94AD4}|PruebaTecnicaArqHex\\PruebaTecnicaArqHex.csproj|c:\\users\\danilo\\source\\repos\\pruebatecnicaarqhex\\pruebatecnicaarqhex\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{027FAA5A-2620-497B-94E2-2C7B9CD94AD4}|PruebaTecnicaArqHex\\PruebaTecnicaArqHex.csproj|solutionrelative:pruebatecnicaarqhex\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027FAA5A-2620-497B-94E2-2C7B9CD94AD4}|PruebaTecnicaArqHex\\PruebaTecnicaArqHex.csproj|c:\\users\\danilo\\source\\repos\\pruebatecnicaarqhex\\pruebatecnicaarqhex\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027FAA5A-2620-497B-94E2-2C7B9CD94AD4}|PruebaTecnicaArqHex\\PruebaTecnicaArqHex.csproj|solutionrelative:pruebatecnicaarqhex\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027FAA5A-2620-497B-94E2-2C7B9CD94AD4}|PruebaTecnicaArqHex\\PruebaTecnicaArqHex.csproj|c:\\users\\danilo\\source\\repos\\pruebatecnicaarqhex\\pruebatecnicaarqhex\\pruebatecnicaarqhex.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{027FAA5A-2620-497B-94E2-2C7B9CD94AD4}|PruebaTecnicaArqHex\\PruebaTecnicaArqHex.csproj|solutionrelative:pruebatecnicaarqhex\\pruebatecnicaarqhex.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFB555-B278-4DC3-A7C4-84199072BFFD}|BlazorPruebaTecnica.Client\\BlazorPruebaTecnica.Client.csproj|c:\\users\\danilo\\source\\repos\\pruebatecnicaarqhex\\blazorpruebatecnica.client\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2AFB555-B278-4DC3-A7C4-84199072BFFD}|BlazorPruebaTecnica.Client\\BlazorPruebaTecnica.Client.csproj|solutionrelative:blazorpruebatecnica.client\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFB555-B278-4DC3-A7C4-84199072BFFD}|BlazorPruebaTecnica.Client\\BlazorPruebaTecnica.Client.csproj|c:\\users\\danilo\\source\\repos\\pruebatecnicaarqhex\\blazorpruebatecnica.client\\services\\newfolder\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFB555-B278-4DC3-A7C4-84199072BFFD}|BlazorPruebaTecnica.Client\\BlazorPruebaTecnica.Client.csproj|solutionrelative:blazorpruebatecnica.client\\services\\newfolder\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFB555-B278-4DC3-A7C4-84199072BFFD}|BlazorPruebaTecnica.Client\\BlazorPruebaTecnica.Client.csproj|c:\\users\\danilo\\source\\repos\\pruebatecnicaarqhex\\blazorpruebatecnica.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFB555-B278-4DC3-A7C4-84199072BFFD}|BlazorPruebaTecnica.Client\\BlazorPruebaTecnica.Client.csproj|solutionrelative:blazorpruebatecnica.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFB555-B278-4DC3-A7C4-84199072BFFD}|BlazorPruebaTecnica.Client\\BlazorPruebaTecnica.Client.csproj|c:\\users\\danilo\\source\\repos\\pruebatecnicaarqhex\\blazorpruebatecnica.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2AFB555-B278-4DC3-A7C4-84199072BFFD}|BlazorPruebaTecnica.Client\\BlazorPruebaTecnica.Client.csproj|solutionrelative:blazorpruebatecnica.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\BlazorPruebaTecnica.Client\\Pages\\Component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorPruebaTecnica.Client\\Pages\\Component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\BlazorPruebaTecnica.Client\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BlazorPruebaTecnica.Client\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\BlazorPruebaTecnica.Client\\wwwroot\\index.html",
+              "RelativeToolTip": "BlazorPruebaTecnica.Client\\wwwroot\\index.html",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvysAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-04T06:38:28.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\BlazorPruebaTecnica.Client\\services\\Client\\ClientService.cs",
+              "RelativeDocumentMoniker": "BlazorPruebaTecnica.Client\\services\\Client\\ClientService.cs",
+              "ToolTip": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\BlazorPruebaTecnica.Client\\services\\Client\\ClientService.cs",
+              "RelativeToolTip": "BlazorPruebaTecnica.Client\\services\\Client\\ClientService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAUwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:33:29.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\PruebaTecnicaArqHex\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PruebaTecnicaArqHex\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\PruebaTecnicaArqHex\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PruebaTecnicaArqHex\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T06:25:27.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\PruebaTecnicaArqHex\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaArqHex\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\PruebaTecnicaArqHex\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PruebaTecnicaArqHex\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwBEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:25:19.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PruebaTecnicaArqHex.http",
+              "DocumentMoniker": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\PruebaTecnicaArqHex\\PruebaTecnicaArqHex.http",
+              "RelativeDocumentMoniker": "PruebaTecnicaArqHex\\PruebaTecnicaArqHex.http",
+              "ToolTip": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\PruebaTecnicaArqHex\\PruebaTecnicaArqHex.http",
+              "RelativeToolTip": "PruebaTecnicaArqHex\\PruebaTecnicaArqHex.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-04T06:24:38.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\PruebaTecnicaArqHex\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaArqHex\\Program.cs",
+              "ToolTip": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\PruebaTecnicaArqHex\\Program.cs",
+              "RelativeToolTip": "PruebaTecnicaArqHex\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwDUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:24:31.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\PruebaTecnicaArqHex\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaTecnicaArqHex\\appsettings.json",
+              "ToolTip": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\PruebaTecnicaArqHex\\appsettings.json",
+              "RelativeToolTip": "PruebaTecnicaArqHex\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T06:24:30.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.razor",
+              "DocumentMoniker": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\BlazorPruebaTecnica.Client\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "BlazorPruebaTecnica.Client\\Pages\\Register.razor",
+              "ToolTip": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\BlazorPruebaTecnica.Client\\Pages\\Register.razor",
+              "RelativeToolTip": "BlazorPruebaTecnica.Client\\Pages\\Register.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T06:17:40.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\PruebaTecnicaArqHex\\Models\\User\\auth\\AuthController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaArqHex\\Models\\User\\auth\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\PruebaTecnicaArqHex\\Models\\User\\auth\\AuthController.cs",
+              "RelativeToolTip": "PruebaTecnicaArqHex\\Models\\User\\auth\\AuthController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:16:58.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\BlazorPruebaTecnica.Client\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorPruebaTecnica.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\BlazorPruebaTecnica.Client\\Program.cs",
+              "RelativeToolTip": "BlazorPruebaTecnica.Client\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:09:59.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\BlazorPruebaTecnica.Client\\services\\NewFolder\\AuthService.cs",
+              "RelativeDocumentMoniker": "BlazorPruebaTecnica.Client\\services\\NewFolder\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\BlazorPruebaTecnica.Client\\services\\NewFolder\\AuthService.cs",
+              "RelativeToolTip": "BlazorPruebaTecnica.Client\\services\\NewFolder\\AuthService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADwv0UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:58:44.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\BlazorPruebaTecnica.Client\\services\\NewFolder\\IAuthService.cs",
+              "RelativeDocumentMoniker": "BlazorPruebaTecnica.Client\\services\\NewFolder\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\BlazorPruebaTecnica.Client\\services\\NewFolder\\IAuthService.cs",
+              "RelativeToolTip": "BlazorPruebaTecnica.Client\\services\\NewFolder\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:58:34.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\BlazorPruebaTecnica.Client\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "BlazorPruebaTecnica.Client\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\BlazorPruebaTecnica.Client\\Pages\\Login.razor",
+              "RelativeToolTip": "BlazorPruebaTecnica.Client\\Pages\\Login.razor",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T05:57:51.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Component.razor",
+              "DocumentMoniker": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\BlazorPruebaTecnica.Client\\Pages\\Component.razor",
+              "RelativeDocumentMoniker": "BlazorPruebaTecnica.Client\\Pages\\Component.razor",
+              "ToolTip": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\BlazorPruebaTecnica.Client\\Pages\\Component.razor",
+              "RelativeToolTip": "BlazorPruebaTecnica.Client\\Pages\\Component.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T05:55:45.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\BlazorPruebaTecnica.Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorPruebaTecnica.Client\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\BlazorPruebaTecnica.Client\\Pages\\Index.razor",
+              "RelativeToolTip": "BlazorPruebaTecnica.Client\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T05:29:12.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.razor",
+              "DocumentMoniker": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\BlazorPruebaTecnica.Client\\Pages\\Client.razor",
+              "RelativeDocumentMoniker": "BlazorPruebaTecnica.Client\\Pages\\Client.razor",
+              "ToolTip": "C:\\Users\\Danilo\\source\\repos\\PruebaTecnicaArqHex\\BlazorPruebaTecnica.Client\\Pages\\Client.razor",
+              "RelativeToolTip": "BlazorPruebaTecnica.Client\\Pages\\Client.razor",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T05:10:01.58Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+﻿@page "/clients"
+
+@using BlazorPruebaTecnica.Client.services.Client
+@using CurrieTechnologies.Razor.SweetAlert2;
+@using PruebaTecnicaShared;
+
+@inject SweetAlertService Swal;
+@inject IClientService clientService;
+
+<h3>Clientes</h3>
+
+<a class="btn btn-success btn-sm mb-3" href="client">Nuevo Cliente</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Email</th>
+            <th>Teléfono</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (listClients == null)
+        {
+            <tr>
+                <td colspan="4" align="center">
+                    <img style="width:50px" src="https://media.tenor.com/On7kvXhzml4AAAAj/loading-gif.gif" />
+                </td>
+            </tr>
+        }
+        else
+        {
+            @foreach (var item in listClients)
+            {
+                <tr>
+                    <td>@item.name</td>
+                    <td>@item.email</td>
+                    <td>@(item.phone ?? "N/A")</td>
+                    <td>
+                        <a class="btn btn-primary btn-sm" href="client/@item.Id">
+                            <i class="oi oi-pencil"></i>
+                        </a>
+                        <button type="button" class="btn btn-danger btn-sm ms-2" @onclick="(() => Delete(item.Id))">
+                            <i class="oi oi-trash"></i>
+                        </button>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+@code {
+    List<ClientDTO>? listClients = null;
+
+    protected override async Task OnInitializedAsync()
+    {
+        listClients = await clientService.list();
+    }
+
+    private async Task Delete(Guid id)
+    {
+        var resultado = await Swal.FireAsync(new SweetAlertOptions
+            {
+                Title = "Eliminar Cliente",
+                Text = "¿Deseas eliminar este cliente?",
+                Icon = SweetAlertIcon.Question,
+                ShowCancelButton = true
+            });
+
+        if (resultado.IsConfirmed)
+        {
+            var eliminado = await clientService.Delete(id);
+
+            if (eliminado)
+                listClients = listClients!.FindAll(c => c.Id != id);
+        }
+    }
+}

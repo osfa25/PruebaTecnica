@@ -1,0 +1,11 @@
+C:\Users\Danilo\source\repos\PruebaTecnicaArqHex\PruebaTenica.Shared\bin\Debug\net9.0\PruebaTenica.Shared.deps.json
+C:\Users\Danilo\source\repos\PruebaTecnicaArqHex\PruebaTenica.Shared\bin\Debug\net9.0\PruebaTenica.Shared.dll
+C:\Users\Danilo\source\repos\PruebaTecnicaArqHex\PruebaTenica.Shared\bin\Debug\net9.0\PruebaTenica.Shared.pdb
+C:\Users\Danilo\source\repos\PruebaTecnicaArqHex\PruebaTenica.Shared\obj\Debug\net9.0\PruebaTenica.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danilo\source\repos\PruebaTecnicaArqHex\PruebaTenica.Shared\obj\Debug\net9.0\PruebaTenica.Shared.AssemblyInfoInputs.cache
+C:\Users\Danilo\source\repos\PruebaTecnicaArqHex\PruebaTenica.Shared\obj\Debug\net9.0\PruebaTenica.Shared.AssemblyInfo.cs
+C:\Users\Danilo\source\repos\PruebaTecnicaArqHex\PruebaTenica.Shared\obj\Debug\net9.0\PruebaTenica.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\source\repos\PruebaTecnicaArqHex\PruebaTenica.Shared\obj\Debug\net9.0\PruebaTenica.Shared.dll
+C:\Users\Danilo\source\repos\PruebaTecnicaArqHex\PruebaTenica.Shared\obj\Debug\net9.0\refint\PruebaTenica.Shared.dll
+C:\Users\Danilo\source\repos\PruebaTecnicaArqHex\PruebaTenica.Shared\obj\Debug\net9.0\PruebaTenica.Shared.pdb
+C:\Users\Danilo\source\repos\PruebaTecnicaArqHex\PruebaTenica.Shared\obj\Debug\net9.0\ref\PruebaTenica.Shared.dll
